@@ -1,0 +1,9 @@
+Package: com.burritoz.shortenit
+Name: ShortenIt
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Shorten URLS with ease!
+Maintainer: burrit0z
+Author: burrit0z
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
